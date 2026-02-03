@@ -11,7 +11,7 @@ int main() // changed from static void main(string[] args)
 	//}
 
 	//std::cout << "Factorial of " << factorialNumber << " is " << factorialTotal << std::endl;
-	//return 0;
+	//return 0; commit and pushing to github 
 
 
 	int sum = 0;
